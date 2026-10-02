@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>UK Air Pollution Forecast</title>
+    <link>http://uk-air.defra.gov.uk/forecasting/</link>
+    <language>en-gb</language>
+    <copyright>(c) Ricardo-AEA</copyright>
+    <webMaster>info@airquality.aeat.com</webMaster>
+    <lastBuildDate>02 Oct 2026 05:15:00 +0100</lastBuildDate>
+	<item>
+		<title>SOUTHAMPTON AIRPORT</title>
+		<description><![CDATA[Location: 50&deg;57&acute;1.08&quot;N    1&deg;21&acute;24.12&quot;W <br />index levels are forecast to be  <br />Fri: 3 Sat: 3 Sun: 3 Mon: 2 Tue: 2 ]]></description>
+		<pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+	</item>
+	<item>
+		<title>LONDON CITY AIRPORT</title>
+		<description><![CDATA[Location: 51&deg;30&acute;17.28&quot;N    0&deg;03&acute;28.80&quot;E <br />index levels are forecast to be  <br />Fri: 3 Sat: 3 Sun: 2 Mon: 2 Tue: 2 ]]></description>
+		<pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+	</item>
+	<item>
+		<title>CRANFIELD</title>
+		<description><![CDATA[Location: 52&deg;04&acute;13.08&quot;N    0&deg;37&acute;36.12&quot;W <br />index levels are forecast to be  <br />Fri: 3 Sat: 2 Sun: 3 Mon: 2 Tue: 2 ]]></description>
+		<pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+	</item>
+	<item>
+		<title>BELFAST HARBOUR</title>
+		<description><![CDATA[Location: 54&deg;36&acute;46.80&quot;N    5&deg;52&acute;37.20&quot;W <br />index levels are forecast to be  <br />Fri: 2 Sat: 2 Sun: 2 Mon: 2 Tue: 2 ]]></description>
+		<pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+	</item>
+	<item>
+		<title>CARLISLE AIRPORT</title>
+		<description><![CDATA[Location: 54&deg;56&acute;15.00&quot;N    2&deg;48&acute;33.12&quot;W <br />index levels are forecast to be  <br />Fri: 2 Sat: 3 Sun: 2 Mon: 2 Tue: 2 ]]></description>
+		<pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+	</item>
+	<item>
+		<title>HUMBERSIDE AIRPORT</title>
+		<description><![CDATA[Location: 53&deg;34&acute;46.92&quot;N    0&deg;20&acute;49.92&quot;W <br />index levels are forecast to be  <br />Fri: 3 Sat: 2 Sun: 2 Mon: 2 Tue: 2 ]]></description>
+		<pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+	</item>
+	<item>
+		<title>LIVERPOOL JOHN LENNON AIRPORT</title>
+		<description><![CDATA[Location: 53&deg;20&acute;0.96&quot;N    2&deg;51&acute;0.00&quot;W <br />index levels are forecast to be  <br />Fri: 2 Sat: 3 Sun: 2 Mon: 2 Tue: 2 ]]></description>
+		<pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+	</item>
+	<item>
+		<title>SCATSTA</title>
+		<description><![CDATA[Location: 60&deg;25&acute;55.92&quot;N    1&deg;17&acute;57.12&quot;W <br />index levels are forecast to be  <br />Fri: 3 Sat: 3 Sun: 3 Mon: 3 Tue: 3 ]]></description>
+		<pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+	</item>
+	<item>
+		<title>SHEFFIELD AIRPORT</title>
+		<description><![CDATA[Location: 53&deg;23&acute;39.84&quot;N    1&deg;23&acute;18.96&quot;W <br />index levels are forecast to be  <br />Fri: 3 Sat: 3 Sun: 2 Mon: 2 Tue: 2 ]]></description>
+		<pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+	</item>
+	<item>
+		<title>DURHAM TEES VALLEY AIRPORT</title>
+		<description><![CDATA[Location: 54&deg;30&acute;45.00&quot;N    1&deg;25&acute;24.60&quot;W <br />index levels are forecast to be  <br />Fri: 2 Sat: 3 Sun: 2 Mon: 2 Tue: 2 ]]></description>
+		<pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+	</item>
+	<item>
+		<title>WARTON</title>
+		<description><![CDATA[Location: 53&deg;44&acute;40.56&quot;N    2&deg;53&acute;7.44&quot;W <br />index levels are forecast to be  <br />Fri: 2 Sat: 3 Sun: 2 Mon: 2 Tue: 2 ]]></description>
+		<pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+	</item>
+	<item>
+		<title>BALTASOUND</title>
+		<description><![CDATA[Location: 60&deg;44&acute;56.40&quot;N    0&deg;51&acute;14.40&quot;W <br />index levels are forecast to be  <br />Fri: 3 Sat: 3 Sun: 3 Mon: 3 Tue: 3 ]]></description>
+		<pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+	</item>
+	<item>
+		<title>LERWICK (S. SCREEN)</title>
+		<description><![CDATA[Location: 60&deg;08&acute;20.40&quot;N    1&deg;10&acute;58.80&quot;W <br />index levels are forecast to be  <br />Fri: 3 Sat: 3 Sun: 3 Mon: 3 Tue: 3 ]]></description>
+		<pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+	</item>
+	<item>
+		<title>SELLA NESS</title>
+		<description><![CDATA[Location: 60&deg;26&acute;49.20&quot;N    1&deg;16&acute;37.20&quot;W <br />index levels are forecast to be  <br />Fri: 3 Sat: 3 Sun: 3 Mon: 3 Tue: 3 ]]></description>
+		<pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+	</item>
+	<item>
+		<title>FAIR ISLE</title>
+		<description><![CDATA[Location: 59&deg;31&acute;37.20&quot;N    1&deg;37&acute;40.80&quot;W <br />index levels are forecast to be  <br />Fri: 3 Sat: 3 Sun: 3 Mon: 3 Tue: 3 ]]></description>
+		<pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+	</item>
+	<item>
+		<title>SOUTH UIST RANGE</title>
+		<description><![CDATA[Location: 57&deg;21&acute;28.80&quot;N    7&deg;23&acute;49.20&quot;W <br />index levels are forecast to be  <br />Fri: 3 Sat: 3 Sun: 3 Mon: 3 Tue: 3 ]]></description>
+		<pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+	</item>
+	<item>
+		<title>LOCH GLASCARNOCH SAWS</title>
+		<description><![CDATA[Location: 57&deg;43&acute;30.00&quot;N    4&deg;53&acute;45.60&quot;W <br />index levels are forecast to be  <br />Fri: 2 Sat: 2 Sun: 2 Mon: 2 Tue: 2 ]]></description>
+		<pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+	</item>
+	<item>
+		<title>AULTBEA</title>
+		<description><![CDATA[Location: 57&deg;51&acute;32.40&quot;N    5&deg;38&acute;9.60&quot;W <br />index levels are forecast to be  <br />Fri: 3 Sat: 3 Sun: 2 Mon: 3 Tue: 3 ]]></description>
+		<pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+	</item>
+	<item>
+		<title>SKYE/LUSA (SAMOS)</title>
+		<description><![CDATA[Location: 57&deg;15&acute;25.20&quot;N    5&deg;48&acute;32.40&quot;W <br />index levels are forecast to be  <br />Fri: 3 Sat: 3 Sun: 2 Mon: 3 Tue: 2 ]]></description>
+		<pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+	</item>
+	<item>
+		<title>ALTNAHARRA SAWS</title>
+		<description><![CDATA[Location: 58&deg;17&acute;16.80&quot;N    4&deg;26&acute;31.20&quot;W <br />index levels are forecast to be  <br />Fri: 2 Sat: 3 Sun: 2 Mon: 3 Tue: 3 ]]></description>
+		<pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+	</item>
+  </channel>
+</rss>
