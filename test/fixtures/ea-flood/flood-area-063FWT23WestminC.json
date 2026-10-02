@@ -1,0 +1,41 @@
+{ 
+  "@context" : "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld" ,
+  "meta" : { 
+    "publisher" : "Environment Agency" ,
+    "licence" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" ,
+    "documentation" : "http://environment.data.gov.uk/flood-monitoring/doc/reference" ,
+    "version" : "0.9" ,
+    "comment" : "Status: Beta service" ,
+    "hasFormat" : [ "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063FWT23WestminC.rdf", "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063FWT23WestminC.ttl", "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063FWT23WestminC.html" ]
+  }
+   ,
+  "items" : { 
+    "@id" : "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063FWT23WestminC" ,
+    "county" : "Greater London, Westminster" ,
+    "description" : "River Thames at Westminster including St James's Park, Victoria and Westminster Cathedral" ,
+    "eaAreaName" : "Herts and North London" ,
+    "envelope" : { 
+      "lowerCorner" : { 
+        "x" : 528645.000001907348633 ,
+        "y" : 178509.421392440795898
+      }
+       ,
+      "upperCorner" : { 
+        "x" : 529980.123384475708008 ,
+        "y" : 180210.200498580932617
+      }
+    }
+     ,
+    "floodWatchArea" : "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT232N" ,
+    "fwdCode" : "063FWT23WestminC" ,
+    "label" : "Tidal Thames at Westminster" ,
+    "lat" : 51.49727 ,
+    "long" : -0.13756 ,
+    "notation" : "063FWT23WestminC" ,
+    "polygon" : "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063FWT23WestminC/polygon" ,
+    "quickDialNumber" : "174243" ,
+    "riverOrSea" : "River Thames" ,
+    "type" : [ "http://environment.data.gov.uk/flood-monitoring/def/core/FloodArea", "http://environment.data.gov.uk/flood-monitoring/def/core/FloodWarningArea" ]
+  }
+}
+
