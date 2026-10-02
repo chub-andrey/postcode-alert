@@ -1,0 +1,23 @@
+# Local development database: PostgreSQL with PostGIS.
+# Start: npm run db:up   Stop: npm run db:down
+services:
+  db:
+    image: postgis/postgis:17-3.5
+    # The official image is amd64-only; OrbStack and Docker Desktop run it on Apple Silicon via Rosetta.
+    platform: linux/amd64
+    environment:
+      POSTGRES_USER: postcode_alert
+      POSTGRES_PASSWORD: postcode_alert
+      POSTGRES_DB: postcode_alert
+    ports:
+      - "5432:5432"
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postcode_alert"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  db-data:
